@@ -58,15 +58,6 @@ The dashboard includes:
 
 ---
 
-## 🚀 How to Use
-
-1. Download the Excel file.
-2. Open it in Microsoft Excel (2016 or later recommended).
-3. Use the slicers to filter the data.
-4. Explore the dashboard and analyze sales performance.
-
----
-
 ## 📈 Skills Demonstrated
 
 - Data Cleaning
@@ -80,6 +71,3 @@ The dashboard includes:
 - ## 👨‍💻 cretad by
 
 **Himanshu Rawat**
-## ⭐ If you like this project
-
-Give this repository a ⭐ and feel free to share your feedback!
